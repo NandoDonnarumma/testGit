@@ -6,6 +6,7 @@ public class Avvio {
 		System.out.println("test git");
 		System.out.println("il buon Mattia");
 		System.out.println("la buon Francesca");
+		System.out.println("speriamo che ce ne siano altri");
 
 	}
 
